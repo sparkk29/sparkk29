@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React and Remix Solidity**
 
-- 👨‍💻 All of my projects are available at [sreejit.in](https://sreejit.in)
-
 - 💬 Ask me about **javascript, angular, ionic or nodeJS**
 
 - 📫 How to reach me **sreejitdeveloper@gmail.com**
