@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparkk29&label=Profile%20views&color=0e75b6&style=flat" alt="sparkk29" /> </p>
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sreejit.tech/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreejit-parakkalam/)
+[![gitlab](https://img.shields.io/badge/gitlab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sparkk)
+
 - 🌱 I’m currently learning **React and Remix Solidity**
 
 - 💬 Ask me about **javascript, angular, ionic or nodeJS**
