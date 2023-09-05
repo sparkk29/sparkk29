@@ -8,7 +8,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreejit-parakkalam/)
 [![gitlab](https://img.shields.io/badge/gitlab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sparkk)
 
-- 🌱 I’m currently learning **React and Remix Solidity**
+- 🌱 I’m currently learning **NextJS and React**
 
 - 💬 Ask me about **javascript, angular, ionic or nodeJS**
 
