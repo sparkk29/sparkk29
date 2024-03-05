@@ -14,9 +14,6 @@
 
 - 📫 How to reach me **sreejitdeveloper@gmail.com**
 
-<h1 align="center">Hi 👋, I'm Sreejit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparkk29&label=Profile%20views&color=0e75b6&style=flat" alt="sparkk29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparkk29" alt="sparkk29" /></a> </p>
